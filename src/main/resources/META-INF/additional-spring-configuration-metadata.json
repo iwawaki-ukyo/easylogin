@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.jmx.datasource.myvatis.configuration.map-underscore-to-camel-case",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jmx.datasource.myvatis.configuration.map-underscore-to-camel-case'"
+  },
+  {
+    "name": "spring.jmx.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jmx.datasource.username'"
+  },
+  {
+    "name": "spring.jmx.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jmx.datasource.url'"
+  },
+  {
+    "name": "spring.jmx.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jmx.datasource.driver-class-name'"
+  }
+]}
